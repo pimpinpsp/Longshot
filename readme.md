@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/longshot.png" alt="Longshot" width="200">
+
   <br>
   <b>Longshot</b>
 </h1>
